@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+a {
+    background-color: #69c181;
+    font-size: 20px;
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    color: #ffffff;
+    border-radius:4px ;
+    padding: 15px 15px;
+    text-decoration: none;
+    display: inline-block;
+}
+.banner {
+    background-image: url('images/img3.jpeg');
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    color: #333;
+    text-align: center;
+}
+.banner h1 {
+    font-size: 48px;
+}
